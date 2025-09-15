@@ -33,29 +33,21 @@ Raciocínio Lógico e Matemático
       Conjuntos numéricos.
 
 
-	  as relações de pertinência 
-
-          inclusão e 
- 
-          igualdade; 
+	  as relações de pertinência, inclusão e igualdade; 
 
 
-      operações entre conjuntos, 
-  
-          união, 
-  
-          interseção e 
-  
-          diferença. 
+      operações entre conjuntos, união, interseção e diferença. 
 
 
-- Tabela verdade.
+- Lógica
 
-- Lógica dedutiva, argumentativa e quantitativa. 
+		Tabela verdade.
 
-- Lógica matemática qualitativa. 
+		Lógica dedutiva, argumentativa e quantitativa. 
 
-- Sequências lógicas envolvendo números, letras e figuras. 
+		Lógica matemática qualitativa. 
+
+		Sequências lógicas envolvendo números, letras e figuras. 
 
 - Regra de três simples e compostas.
 
